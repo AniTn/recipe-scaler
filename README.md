@@ -10,7 +10,8 @@ recipes to failed dishes.
 
 ## How It Works
 
-![CS173 - Tools - Project System Diagram.png](../../../Downloads/CS173%20-%20Tools%20-%20Project%20System%20Diagram.png)
+<img width="1676" height="858" alt=" System Diagram" src="https://github.com/user-attachments/assets/f0fedeff-cb5d-41b4-8145-c65714b4e028" />
+
 
 ## Tech Stack
 
